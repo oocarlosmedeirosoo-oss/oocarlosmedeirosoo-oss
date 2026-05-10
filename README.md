@@ -10,8 +10,7 @@ From "zero coding knowledge" to a student at **42 Lisboa**. My programming journ
 ### 🛠️ Toolbox
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | `Python`, `C`, `SQL` (se já estiveres a ver bases de dados) |
-| **Backend/Core** | `Django` / `Flask` (ou as que pretenderes usar), `Algorithms` |
+| **Languages** | `Python`, `C`|
 | **DevOps & Tools** | `Docker`, `Git`, `Shell (Bash/Zsh)`, `Makefiles` |
 | **Environment** | `Linux (Ubuntu/Arch)`, `VS Code`, `Vim` |
 
