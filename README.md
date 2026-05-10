@@ -11,7 +11,13 @@ De "zero conhecimentos em código" a estudante da **42 Lisboa**. O meu percurso 
 - **Linguagens:** Python, C
 - **Ferramentas:** Git, Shell (Bash/Zsh)
 - **Ambiente:** VS Code, Linux/Unix
-- 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,py,vscode,bash,github,vim,linux,md" />
+  </a>
+</p>
+ 
 ### 📺 Fora do código
 - ⛩️ **Anime Enthusiast:** Quando não estou a debugar, estou provavelmente a ver algum anime para descontrair.
 - 🎮 **Ex-Gamer:** Troquei temporariamente o comando pelo teclado. A imersão na programação tornou-se o meu novo "jogo" principal.
