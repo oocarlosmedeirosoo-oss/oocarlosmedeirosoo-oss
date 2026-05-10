@@ -19,6 +19,7 @@ From "zero coding knowledge" to a student at **42 Lisboa**. My programming journ
     <img src="https://skillicons.dev/icons?i=git,c,py,vscode,bash,github,vim,linux,md" />
   </a>
 </p>
+![Carlos's GitHub stats](https://vercel.app)
  
 ### 📺 Beyond the code
 - ⛩️ **Anime Enthusiast:** When I'm not debugging, I'm probably watching some anime to unwind.
