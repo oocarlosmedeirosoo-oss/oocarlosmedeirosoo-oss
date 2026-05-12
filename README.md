@@ -11,8 +11,8 @@ From "zero coding knowledge" to a student at **42 Lisboa**. My programming journ
 | Category | Tools |
 | :--- | :--- |
 | **Languages** | `Python`, `C`|
-| **DevOps & Tools** | `Docker`, `Git`, `Shell (Bash/Zsh)`, `Makefiles` |
-| **Environment** | `Linux (Ubuntu/Arch)`, `VS Code`, `Vim` |
+| **DevOps & Tools** |`Git`, `Shell (Bash/Zsh)`, `Makefiles` |
+| **Environment** | `Linux (Ubuntu)`, `VS Code`, `Vim` |
 
 <p align="center">
   <a href="https://skillicons.dev">
